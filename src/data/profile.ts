@@ -5,7 +5,7 @@ export const profile = {
   displayName: 'Dream',
   location: 'Perú',
   socials: [
-    { id: 'github', label: 'GitHub', href: 'https://github.com/dreamdev0' },
+    { id: 'github', label: 'GitHub', href: 'https://github.com/ddreamm7' },
     { id: 'email', label: 'Email', href: 'mailto:aalonsoopg@gmail.com' },
     {
       id: 'whatsapp',

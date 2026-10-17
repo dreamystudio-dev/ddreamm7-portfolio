@@ -6,8 +6,8 @@ export const projects: Project[] = [
     stack: 'Unity',
     cover: '/project-placeholder.svg',
     links: {
-      source: 'https://github.com/dreamdev0',
-      download: 'https://github.com/dreamdev0/alpha/releases/latest',
+      source: 'https://github.com/ddreamm7',
+      download: 'https://github.com/ddreamm7/alpha/releases/latest',
     },
   },
   {
@@ -15,8 +15,8 @@ export const projects: Project[] = [
     stack: 'Unreal Engine',
     cover: '/project-placeholder.svg',
     links: {
-      source: 'https://github.com/dreamdev0',
-      download: 'https://github.com/dreamdev0/neon-runner/releases/latest',
+      source: 'https://github.com/ddreamm7',
+      download: 'https://github.com/ddreamm7/neon-runner/releases/latest',
     },
   },
   {
@@ -24,8 +24,8 @@ export const projects: Project[] = [
     stack: 'Unity',
     cover: '/project-placeholder.svg',
     links: {
-      source: 'https://github.com/dreamdev0',
-      download: 'https://github.com/dreamdev0/voxel-shooter/releases/latest',
+      source: 'https://github.com/ddreamm7',
+      download: 'https://github.com/ddreamm7/voxel-shooter/releases/latest',
     },
   },
   {
@@ -33,8 +33,8 @@ export const projects: Project[] = [
     stack: 'Vue 3',
     cover: '/project-placeholder.svg',
     links: {
-      source: 'https://github.com/dreamdev0',
-      download: 'https://github.com/dreamdev0/pixel-art-tool/releases/latest',
+      source: 'https://github.com/ddreamm7',
+      download: 'https://github.com/ddreamm7/pixel-art-tool/releases/latest',
     },
   },
   {
@@ -42,8 +42,8 @@ export const projects: Project[] = [
     stack: 'Godot',
     cover: '/project-placeholder.svg',
     links: {
-      source: 'https://github.com/dreamdev0',
-      download: 'https://github.com/dreamdev0/terra-gen/releases/latest',
+      source: 'https://github.com/ddreamm7',
+      download: 'https://github.com/ddreamm7/terra-gen/releases/latest',
     },
   },
 ] as const
